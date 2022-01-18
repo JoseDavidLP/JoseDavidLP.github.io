@@ -21,40 +21,25 @@
         "url": "http://github.com/JoseDavidLP"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "JJDLP",
+        "url": "http://twitter.com/JJDLP_"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Accounting",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Video Games",
       "keywords": [
       ]
     },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
   ],
   "skills": [
     {
