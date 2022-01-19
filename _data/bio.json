@@ -31,8 +31,6 @@
     {
       "name": "Accounting",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -63,6 +61,16 @@
       "summary": "Head of maintenence",
       "highlights": [
         "Maintain, update, and oversee facility equipment",
+      ]
+    },
+     {
+      "company": "FiRE.GG",
+      "position": "Esports player",
+      "website": "",
+      "startDate": "2019-03-01",
+      "endDate": "2019-09-01",
+      "summary": "Played Apex Legends professionally",
+      "highlights": [
       ]
     }
    ],
