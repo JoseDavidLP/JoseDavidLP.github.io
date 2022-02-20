@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "basics": {
     "name": "Jose Pangelinan",
     "label": "Student",
@@ -29,7 +30,7 @@
       ]
     },
     {
-      "name": "Data Analysis",
+      "name": "Accounting",
       "keywords": [
       ]
     }
@@ -58,3 +59,91 @@
         "Maintain, update, and oversee all equipment in WRC",
       ]
     }
+=======
+   "basics":{
+      "name":"Jose Pangelinan",
+      "label":"Student",
+      "picture":"https://JoseDavidLP.github.io/images/JoseDavidLP.jpg",
+      "email":"jdlp@hawaii.edu",
+      "phone":"",
+      "website":"https://JoseDavidLP.github.io",
+      "summary":"I am studying for a BBA in Accounting and MIS at the University of Hawaii. I expect to graduate in Spring, 2020.",
+      "location":{
+         "address":"",
+         "postalCode":"",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"JoseDavidLP",
+            "url":"http://github.com/JoseDavidLP"
+         },
+         {
+            "network":"twitter",
+            "username":"JJDLP",
+            "url":"http://twitter.com/JJDLP_"
+         }
+      ]
+   },
+   "interests":[
+      {
+         "name":"Accounting",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Video Games",
+         "keywords":[
+            
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Accounting & MIS (expected Spring, 2023)",
+         "studyType":"BBA.",
+         "startDate":"2018-09-01",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Warrior Recreational Center",
+         "position":"Senior Manager",
+         "website":"",
+         "startDate":"2020-08-01",
+         "endDate":"Present",
+         "summary":"Head of maintenence",
+         "highlights":[
+            "Maintain, update, and oversee facility equipment"
+         ]
+      },
+      {
+         "company":"FiRE.GG",
+         "position":"Esports player",
+         "website":"",
+         "startDate":"2019-03-01",
+         "endDate":"2019-09-01",
+         "summary":"Played Apex Legends professionally",
+         "highlights":[
+            
+         ]
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
+}
+>>>>>>> a678e6f2693c6bc4ecfd540b738455645a705365
