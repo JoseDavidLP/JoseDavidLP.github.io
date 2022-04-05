@@ -4,11 +4,7 @@
 # Edit next line, providing your own name.
 title: Jose Pangelinan | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
-<<<<<<< HEAD
 url: "https://josedavidlp.github.io"
-=======
-url: "https://josedavidlp.github.io"
->>>>>>> a678e6f2693c6bc4ecfd540b738455645a705365
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
 
